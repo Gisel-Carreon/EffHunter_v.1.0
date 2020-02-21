@@ -1,0 +1,23 @@
+EffHunter pipeline version 1.0 License
+Author: Gisel Carreon, Blondy Canto
+Copyright: All Rights Reserved
+Created: 2020/2/21
+Last Modified: 2020/2/21
+
+This software was licensed for private study, education or non-profit research only.
+
+
+						LICENSE
+
+A. Academic License
+
+If you are an academic you may freely use this package. This does not include providing a EffHunter prediction service over the internet.  Academic citation would be highly appreciated.
+
+Non-profit use is a necessary condition for "academic". If in doubt please contact Gisel Carreon and Blondy Canto.
+
+
+B. Commercial License
+
+Any potential users are encouraged to contact Blondy Canto to discuss other licensing arrangements.
+
+
